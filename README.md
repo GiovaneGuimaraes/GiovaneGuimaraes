@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Giovane Guimarães
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Pleno FullStack`**
 
 Oi! Me chamo Giovane, tenho 22 anos e sou apaixonado por tecnologia. Sou natural de São Carlos - SP e atualmente trabalho como desenvolvedor(a) fullstack. Estudei Análise e Desenvolvimento de Sistemas no IFSP e, desde que comecei a trabalhar com tecnologia, estou sempre em busca de aprender mais e melhorar minhas habilidades.
 
