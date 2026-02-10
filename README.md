@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Pleno FullStack`**
 
-Oi! Me chamo Giovane, tenho 22 anos e sou apaixonado por tecnologia. Sou natural de São Carlos - SP e atualmente trabalho como desenvolvedor(a) fullstack. Estudei Análise e Desenvolvimento de Sistemas no IFSP e, desde que comecei a trabalhar com tecnologia, estou sempre em busca de aprender mais e melhorar minhas habilidades.
+Oi! Me chamo Giovane, tenho 22 anos e sou apaixonado por tecnologia. Sou natural de São Carlos - SP e atualmente trabalho como desenvolvedor fullstack. Estudei Análise e Desenvolvimento de Sistemas no IFSP e, desde que comecei a trabalhar com tecnologia, estou sempre em busca de aprender mais e melhorar minhas habilidades.
 
-Trabalho com TypeScript, tanto no backend (com Node.js) quanto no frontend (usando React), e gosto de explorar ferramentas como AWS, Lambdas e GraphQL para criar soluções modernas e escaláveis.
+Trabalho com TypeScript, tanto no backend quanto no frontend, e gosto de explorar ferramentas como as da AWS (Lambdas, AppSync, SQS...) para criar soluções modernas e escaláveis.
 
 Gosto de aprender, experimentar tecnologias novas e evoluir com cada projeto. Acredito que boas soluções surgem com colaboração e troca de conhecimento.
 
